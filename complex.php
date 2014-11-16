@@ -22,7 +22,7 @@ class Complex {
 
 	}
 
-	public function set_comp_num($real=0,$imaginer=0) // define our complex number
+	public function set_comp_num($real=0,$imaginer=0) //main function of complex number
 	{
 		
  		if(is_numeric($real) && is_numeric($imaginer))
