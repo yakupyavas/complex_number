@@ -1,4 +1,2 @@
-complex_number
-==============
+PHP Complex Number Class
 
-complex number php class
