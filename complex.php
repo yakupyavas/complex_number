@@ -1,6 +1,3 @@
-
-<html>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <?php
 #Coded By Yakup Yavaş
 #Complex Number PHP Class
@@ -172,5 +169,3 @@ class Complex {
 	#End
 
 ?>
-
-</html>
